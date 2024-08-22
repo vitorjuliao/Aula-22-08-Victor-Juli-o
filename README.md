@@ -1,2 +1,2 @@
-# Aula-22-08-Victor-Juli-o
+# Aula-22-08-Victor
 Dinâmica GitHub
